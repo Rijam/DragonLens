@@ -441,7 +441,7 @@ ItemSpawner: {
 		}
 
 		Tools: {
-			// Name: Pickaxe
+			// Name: Tools
 			// Description: Any item that has pickaxe power, axe power, or hammer power
 		}
 
