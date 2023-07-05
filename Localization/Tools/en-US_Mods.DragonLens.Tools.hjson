@@ -440,19 +440,9 @@ ItemSpawner: {
 			Description: Any item that is consumable and doesn't place a tile
 		}
 
-		Pickaxe: {
-			Name: Pickaxe
-			Description: Any item that has pickaxe power
-		}
-
-		Axe: {
-			Name: Axe
-			Description: Any item that has axe power
-		}
-
-		Hammer: {
-			Name: Hammer
-			Description: Any item that has hammer power
+		Tools: {
+			Name: Tools
+			Description: Any item that has pickaxe power, axe power, or hammer power
 		}
 
 		Ammo: {
@@ -475,13 +465,8 @@ ItemSpawner: {
 			Description: Any item that is a vanity item
 		}
 
-		Fishing: {
-			Name: Fishing
-			Description: Any item that is a fishing rod, bait, or quest fish
-		}
-
 		MakeNPC: {
-			Name: Create NPC
+			Name: Critters
 			Description: Any item that creates an NPC
 		}
 
@@ -495,11 +480,6 @@ ItemSpawner: {
 			Description: Any item that is a pet or light pet
 		}
 
-		Wings: {
-			Name: Wings
-			Description: Any item that are wings
-		}
-
 		Hooks: {
 			Name: Hooks
 			Description: Any item that is a grappling hook
@@ -508,11 +488,6 @@ ItemSpawner: {
 		Material: {
 			Name: Material
 			Description: Any item that is a material
-		}
-
-		Unresearched: {
-			Name: Unresearched
-			Description: Any item that has not been researched in Journey Mode
 		}
 	}
 }
